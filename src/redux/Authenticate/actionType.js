@@ -1,0 +1,8 @@
+
+export const REQUEST = "REQUEST"
+export const FAILURE = "FAILURE"
+export const LOGIN_SUCCESS = "LOGIN_SUCCESS"
+export const SIGNUP_SUCCESS = "SIGNUP_SUCCESS"
+export const GET_USERDATA_SUCCESS = "GET_USERDATA_SUCCESS"
+export const USER_LOGGEDIN = " USER_LOGGEDIN"
+
